@@ -1,4 +1,4 @@
-{
+[{
     "schedule": {
         "timestamp": "2022-04-24T12:28:36-0700",
         "type": "League Schedule",
@@ -373,4 +373,4 @@
             },
         ]
     }
-}
+}]
