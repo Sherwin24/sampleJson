@@ -1,0 +1,376 @@
+{
+    "schedule": {
+        "timestamp": "2022-04-24T12:28:36-0700",
+        "type": "League Schedule",
+        "league": {
+            "leagueid": "193",
+            "leaguename": "American Association"
+        },
+        "season": {
+            "seasonid": "33244",
+            "seasonname": "American Association Playoffs 2021"
+        },
+        "game": [
+            {
+                "gameid": "567384",
+                "gamenumber": "1",
+                "conference_info": "Conference",
+                "awayteam": {
+                    "teamlinkid": "141706",
+                    "awayid": "157234",
+                    "teamname": "Milwaukee Milkmen",
+                    "shortname": "Milwaukee",
+                    "logo": "//pointstreak.com/baseball/logos/league193/team152969.gif",
+                    "division": {
+                        "divisionid": "35035",
+                        "divisionname": "North Division"
+                    }
+                },
+                "hometeam": {
+                    "teamlinkid": "11218",
+                    "homeid": "157233",
+                    "teamname": "Fargo-Moorhead RedHawks",
+                    "shortname": "Fargo-Moorhead",
+                    "logo": "//pointstreak.com/baseball/logos/league193/team152967.gif",
+                    "division": {
+                        "divisionid": "35035",
+                        "divisionname": "North Division"
+                    }
+                },
+                "awayscore": "0",
+                "homescore": "5",
+                "field": "Newman Outdoor Field",
+                "timezone": "CST",
+                "gamedate": "2021-09-08",
+                "gametime": "18:30:00",
+                "dlstimezone": "CDT",
+                "gamedatefull": "2021-08-09T18:30:00-05:00",
+                "gamestatus": {
+                    "status": "COMPLETE",
+                    "regulationinnings": "9",
+                    "inningsplayed": "9"
+                }
+            },
+            {
+                "gameid": "567385",
+                "gamenumber": "2",
+                "conference_info": "Conference",
+                "awayteam": {
+                    "teamlinkid": "11131",
+                    "awayid": "157237",
+                    "teamname": "Sioux City Explorers",
+                    "shortname": "Sioux City",
+                    "logo": "//pointstreak.com/baseball/logos/league193/team105332.gif",
+                    "division": {
+                        "divisionid": "35036",
+                        "divisionname": "South Division"
+                    }
+                },
+                "hometeam": {
+                    "teamlinkid": "120887",
+                    "homeid": "157235",
+                    "teamname": "Cleburne Railroaders",
+                    "shortname": "Cleburne",
+                    "logo": "//pointstreak.com/baseball/logos/league193/team152961.gif",
+                    "division": {
+                        "divisionid": "35036",
+                        "divisionname": "South Division"
+                    }
+                },
+                "awayscore": "4",
+                "homescore": "0",
+                "field": "The Depot at Cleburne Station",
+                "timezone": "CST",
+                "gamedate": "2021-09-08",
+                "gametime": "19:14:00",
+                "dlstimezone": "CDT",
+                "gamedatefull": "2021-08-09T19:14:00-05:00",
+                "gamestatus": {
+                    "status": "COMPLETE",
+                    "regulationinnings": "9",
+                    "inningsplayed": "9"
+                }
+            },
+            {
+                "gameid": "567386",
+                "gamenumber": "3",
+                "conference_info": "Conference",
+                "awayteam": {
+                    "teamlinkid": "11218",
+                    "awayid": "157233",
+                    "teamname": "Fargo-Moorhead RedHawks",
+                    "shortname": "Fargo-Moorhead",
+                    "logo": "//pointstreak.com/baseball/logos/league193/team152967.gif",
+                    "division": {
+                        "divisionid": "35035",
+                        "divisionname": "North Division"
+                    }
+                },
+                "hometeam": {
+                    "teamlinkid": "132636",
+                    "homeid": "157232",
+                    "teamname": "Chicago Dogs",
+                    "shortname": "Chicago",
+                    "logo": "//pointstreak.com/baseball/logos/league193/team132636.gif",
+                    "division": {
+                        "divisionid": "35035",
+                        "divisionname": "North Division"
+                    }
+                },
+                "awayscore": "9",
+                "homescore": "4",
+                "field": "Impact Field",
+                "timezone": "EST",
+                "gamedate": "2021-09-10",
+                "gametime": "18:39:00",
+                "dlstimezone": "EDT",
+                "gamedatefull": "2021-10-09T18:39:00-04:00",
+                "gamestatus": {
+                    "status": "COMPLETE",
+                    "regulationinnings": "9",
+                    "inningsplayed": "9"
+                }
+            },
+            {
+                "gameid": "567387",
+                "gamenumber": "4",
+                "conference_info": "Conference",
+                "awayteam": {
+                    "teamlinkid": "11131",
+                    "awayid": "157237",
+                    "teamname": "Sioux City Explorers",
+                    "shortname": "Sioux City",
+                    "logo": "//pointstreak.com/baseball/logos/league193/team105332.gif",
+                    "division": {
+                        "divisionid": "35036",
+                        "divisionname": "South Division"
+                    }
+                },
+                "hometeam": {
+                    "teamlinkid": "11129",
+                    "homeid": "157236",
+                    "teamname": "Kansas City Monarchs",
+                    "shortname": "Kansas City",
+                    "logo": "//pointstreak.com/baseball/logos/league193/team152962.gif",
+                    "division": {
+                        "divisionid": "35036",
+                        "divisionname": "South Division"
+                    }
+                },
+                "awayscore": "2",
+                "homescore": "11",
+                "field": "Legends Field",
+                "timezone": "CST",
+                "gamedate": "2021-09-10",
+                "gametime": "19:11:00",
+                "dlstimezone": "CDT",
+                "gamedatefull": "2021-10-09T19:11:00-05:00",
+                "gamestatus": {
+                    "status": "COMPLETE",
+                    "regulationinnings": "9",
+                    "inningsplayed": "9"
+                }
+            },
+            {
+                "gameid": "567388",
+                "gamenumber": "5",
+                "conference_info": "Conference",
+                "awayteam": {
+                    "teamlinkid": "11218",
+                    "awayid": "157233",
+                    "teamname": "Fargo-Moorhead RedHawks",
+                    "shortname": "Fargo-Moorhead",
+                    "logo": "//pointstreak.com/baseball/logos/league193/team152967.gif",
+                    "division": {
+                        "divisionid": "35035",
+                        "divisionname": "North Division"
+                    }
+                },
+                "hometeam": {
+                    "teamlinkid": "132636",
+                    "homeid": "157232",
+                    "teamname": "Chicago Dogs",
+                    "shortname": "Chicago",
+                    "logo": "//pointstreak.com/baseball/logos/league193/team132636.gif",
+                    "division": {
+                        "divisionid": "35035",
+                        "divisionname": "North Division"
+                    }
+                },
+                "awayscore": "1",
+                "homescore": "7",
+                "field": "Impact Field",
+                "timezone": "EST",
+                "gamedate": "2021-09-11",
+                "gametime": "17:35:00",
+                "dlstimezone": "EDT",
+                "gamedatefull": "2021-11-09T17:35:00-04:00",
+                "gamestatus": {
+                    "status": "COMPLETE",
+                    "regulationinnings": "9",
+                    "inningsplayed": "9"
+                }
+            },
+            {
+                "gameid": "567389",
+                "gamenumber": "6",
+                "conference_info": "Conference",
+                "awayteam": {
+                    "teamlinkid": "11131",
+                    "awayid": "157237",
+                    "teamname": "Sioux City Explorers",
+                    "shortname": "Sioux City",
+                    "logo": "//pointstreak.com/baseball/logos/league193/team105332.gif",
+                    "division": {
+                        "divisionid": "35036",
+                        "divisionname": "South Division"
+                    }
+                },
+                "hometeam": {
+                    "teamlinkid": "11129",
+                    "homeid": "157236",
+                    "teamname": "Kansas City Monarchs",
+                    "shortname": "Kansas City",
+                    "logo": "//pointstreak.com/baseball/logos/league193/team152962.gif",
+                    "division": {
+                        "divisionid": "35036",
+                        "divisionname": "South Division"
+                    }
+                },
+                "awayscore": "6",
+                "homescore": "11",
+                "field": "Legends Field",
+                "timezone": "CST",
+                "gamedate": "2021-09-11",
+                "gametime": "19:08:00",
+                "dlstimezone": "CDT",
+                "gamedatefull": "2021-11-09T19:08:00-05:00",
+                "gamestatus": {
+                    "status": "COMPLETE",
+                    "regulationinnings": "9",
+                    "inningsplayed": "9"
+                }
+            },
+            {
+                "gameid": "567430",
+                "gamenumber": "8",
+                "conference_info": "Conference",
+                "awayteam": {
+                    "teamlinkid": "11129",
+                    "awayid": "157236",
+                    "teamname": "Kansas City Monarchs",
+                    "shortname": "Kansas City",
+                    "logo": "//pointstreak.com/baseball/logos/league193/team152962.gif",
+                    "division": {
+                        "divisionid": "35036",
+                        "divisionname": "South Division"
+                    }
+                },
+                "hometeam": {
+                    "teamlinkid": "11131",
+                    "homeid": "157237",
+                    "teamname": "Sioux City Explorers",
+                    "shortname": "Sioux City",
+                    "logo": "//pointstreak.com/baseball/logos/league193/team105332.gif",
+                    "division": {
+                        "divisionid": "35036",
+                        "divisionname": "South Division"
+                    }
+                },
+                "awayscore": "14",
+                "homescore": "2",
+                "field": "Mercy Field at Lewis and Clark Park",
+                "timezone": "CST",
+                "gamedate": "2021-09-13",
+                "gametime": "19:04:00",
+                "dlstimezone": "CDT",
+                "gamedatefull": "2021-13-09T19:04:00-05:00",
+                "gamestatus": {
+                    "status": "COMPLETE",
+                    "regulationinnings": "9",
+                    "inningsplayed": "9"
+                }
+            },
+            {
+                "gameid": "567683",
+                "gamenumber": "",
+                "conference_info": "Conference",
+                "awayteam": {
+                    "teamlinkid": "132636",
+                    "awayid": "157232",
+                    "teamname": "Chicago Dogs",
+                    "shortname": "Chicago",
+                    "logo": "//pointstreak.com/baseball/logos/league193/team132636.gif",
+                    "division": {
+                        "divisionid": "35035",
+                        "divisionname": "North Division"
+                    }
+                },
+                "hometeam": {
+                    "teamlinkid": "11218",
+                    "homeid": "157233",
+                    "teamname": "Fargo-Moorhead RedHawks",
+                    "shortname": "Fargo-Moorhead",
+                    "logo": "//pointstreak.com/baseball/logos/league193/team152967.gif",
+                    "division": {
+                        "divisionid": "35035",
+                        "divisionname": "North Division"
+                    }
+                },
+                "awayscore": "5",
+                "homescore": "6",
+                "field": "Newman Outdoor Field",
+                "timezone": "CST",
+                "gamedate": "2021-09-14",
+                "gametime": "18:32:00",
+                "dlstimezone": "CDT",
+                "gamedatefull": "2021-14-09T18:32:00-05:00",
+                "gamestatus": {
+                    "status": "COMPLETE",
+                    "regulationinnings": "9",
+                    "inningsplayed": "9"
+                }
+            },
+            {
+                "gameid": "567431",
+                "gamenumber": "9",
+                "conference_info": "Conference",
+                "awayteam": {
+                    "teamlinkid": "132636",
+                    "awayid": "157232",
+                    "teamname": "Chicago Dogs",
+                    "shortname": "Chicago",
+                    "logo": "//pointstreak.com/baseball/logos/league193/team132636.gif",
+                    "division": {
+                        "divisionid": "35035",
+                        "divisionname": "North Division"
+                    }
+                },
+                "hometeam": {
+                    "teamlinkid": "11218",
+                    "homeid": "157233",
+                    "teamname": "Fargo-Moorhead RedHawks",
+                    "shortname": "Fargo-Moorhead",
+                    "logo": "//pointstreak.com/baseball/logos/league193/team152967.gif",
+                    "division": {
+                        "divisionid": "35035",
+                        "divisionname": "North Division"
+                    }
+                },
+                "awayscore": "11",
+                "homescore": "1",
+                "field": "Newman Outdoor Field",
+                "timezone": "CST",
+                "gamedate": "2021-09-15",
+                "gametime": "18:32:00",
+                "dlstimezone": "CDT",
+                "gamedatefull": "2021-15-09T18:32:00-05:00",
+                "gamestatus": {
+                    "status": "COMPLETE",
+                    "regulationinnings": "9",
+                    "inningsplayed": "9"
+                }
+            },
+        ]
+    }
+}
